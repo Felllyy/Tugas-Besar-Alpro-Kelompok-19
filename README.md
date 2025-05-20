@@ -9,4 +9,4 @@ Spesifikasi:
 2. Pengguna dapat menambahkan daftar anggota tim dan peran mereka dalam startup.
 3. Pencarian startup berdasarkan nama atau bidang usaha menggunakan Sequential dan Binary Search.
 4. Pengurutan daftar startup berdasarkan total pendanaan atau tahun berdiri menggunakan Selection dan Insertion Sort.
-5 . Sistem menampilkan laporan jumlah startup per kategori bidang usaha.
+5. Sistem menampilkan laporan jumlah startup per kategori bidang usaha.
